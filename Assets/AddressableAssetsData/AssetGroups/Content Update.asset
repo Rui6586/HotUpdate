@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Content Update
+  m_EditorClassIdentifier: 
+  m_GroupName: Content Update
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a4f3c16bc29cbac4aa91ece6fff899e9
+  m_SerializeEntries:
+  - m_GUID: a896df547d3bf7b47a7eb7978d002909
+    m_Address: Assets/Prefabs/CubeMaterial 2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 993f37af654389e4cb74d19c5438d942
+    m_Address: Assets/Prefabs/Cube2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0fc954d00977b844825ea54ee763af1
+    m_Address: Assets/HotUpdateDlls/GamePlay.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f3497b173d101c4eb08a0f4b065979c
+    m_Address: Assets/HotUpdateDlls/HotUpdateDll/GamePlay.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d08c540ebbecc7498638800a44929e4
+    m_Address: Assets/HotUpdateDlls/MetaDataDll/UnityEngine.CoreModule.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0c1f7c3dfdb2ba4393f0f3c81c983f7
+    m_Address: Assets/HotUpdateDlls/MetaDataDll/mscorlib.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25c980ec08ec6db4094a3234982efdc3
+    m_Address: Assets/Prefabs/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f47f617a5df0d94469ebcdf9a0cdefcd
+    m_Address: Assets/Prefabs/CubeMaterial.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85a9255ba255aeb439fb6db57c849299
+    m_Address: Assets/Prefabs/Cube1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 202c1b7aef3bec14abd2f10be549af07
+    m_Address: Assets/Prefabs/CubeMaterial 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22e2978c367efdf40a344fe2275aeeff
+    m_Address: Assets/Prefabs/TestPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bd8c88330daf27744b9edd695f056cc7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d30ff27d7327e674dba801bccbad6e7b, type: 2}
+    - {fileID: 11400000, guid: fc4722b1ea8781c43a66840525935143, type: 2}
